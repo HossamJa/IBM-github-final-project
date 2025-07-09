@@ -12,13 +12,15 @@ You recently got hired as a developer in a micro-finance startup with a mission 
 * Create a Contribution Guidelines markdown that tells the community how to contribute.
 * Commit the new files to the repository.
 
-** App Demo:
-`A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+### App Demo:
+```
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 Input:
    p, principal amount
    t, time period in years
    r, annual rate of interest
 Output
-   simple interest = p*t*r`
+   simple interest = p*t*r
+```
 
    
